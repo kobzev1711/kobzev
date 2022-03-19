@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash  2
 export LC_NUMERIC="en_US.UTF-8"
 SOLANA_PATH="/root/.local/share/solana/install/active_release/bin/solana" #Поменять на свой путь к active_release. обрати вниманеи что путь со словом "solana" его не удалять!!!
 #Cluster: m-mainnet-beta или t-testnet
